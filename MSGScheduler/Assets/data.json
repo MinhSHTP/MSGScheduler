@@ -1,0 +1,38 @@
+﻿[
+	{
+		"NameInContact":"Papa",
+		"PhoneNum":"0988011194",
+		"DateSend":"09/08/2016 19:55:25 PM",
+		"DateSchedule":"06/08/2016 13:55:25 PM",
+		"DateDiscard":"",
+		"SMSContent":"Papa-0",
+		"SMSStatus":"0"
+	},
+	{
+		"NameInContact":"Papa",
+		"PhoneNum":"0988011194",
+		"DateSend":"09/08/2016 19:55:25 PM",
+		"DateSchedule":"06/08/2016 13:55:25 PM",
+		"DateDiscard":"07/08/2016 15:03:25 PM",
+		"SMSContent":"Papa-2",
+		"SMSStatus":"2"
+	},
+	{
+		"NameInContact":"Papa",
+		"PhoneNum":"0988011194",
+		"DateSend":"07/08/2016 19:55:25 PM",
+		"DateSchedule":"06/08/2016 13:55:25 PM",
+		"DateDiscard":"",
+		"SMSContent":"Papa-1",
+		"SMSStatus":"1"
+	},
+	{
+		"NameInContact":"Mom",
+		"PhoneNum":"0982148256",
+		"DateSend":"05/08/2016 19:55:25 PM",
+		"DateSchedule":"03/08/2016 13:55:25 PM",
+		"DateDiscard":"",
+		"SMSContent":"Mom-1",
+		"SMSStatus":"1"
+	}
+]
